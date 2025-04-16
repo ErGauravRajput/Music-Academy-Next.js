@@ -17,6 +17,7 @@ A modern, responsive web application built with **Next.js** to showcase featured
 ---
 
 ## 📁 Project Structure
+```
 music-learning-platform/
 │
 ├── .next/                  # Next.js build output (auto-generated)
@@ -53,7 +54,9 @@ music-learning-platform/
 │
 ├── .eslintrc.json          # Linting configuration
 ├── .gitignore              # Git ignore rules
-├── bun.lock                
+├── bun.lock
+
+```          
 
 ---
 
