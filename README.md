@@ -92,11 +92,11 @@ bun dev
 
 | Page | Screenshot |
 |------|-----------|
-| *Home Page* | ![home](image.png) |
-| *Courses Page* | ![courses](image-1.png) |
-| *Why Choose Us* | ![choose us](image-2.png) |
-| *Webinar Page* | ![Webinar](image-3.png) |
-| *Instructors Page* | ![page](image-4.png) |
-| *All Courses* | ![courses](image-5.png) |
-| *Contact Us* | ![contact](image-6.png) |
-| *Footer* | ![footer](image-7.png) |
+| *Home Page* | ![image](https://github.com/user-attachments/assets/f311da4b-0442-4e5e-8b0f-d15a4d67778f) |
+| *Courses Page* | ![image](https://github.com/user-attachments/assets/bba2167e-ea55-45a4-a7b1-b8b9290826ff) |
+| *Why Choose Us* | ![image](https://github.com/user-attachments/assets/beb7239b-3d9f-4a81-a63d-31c3ccc86277) |
+| *Webinar Page* | ![image](https://github.com/user-attachments/assets/0be222e4-e687-49d5-b447-351fd7445344) |
+| *Instructors Page* |![image](https://github.com/user-attachments/assets/b6b9ea72-d932-4efd-9f28-38849aece1d9) |
+| *All Courses* | ![image](https://github.com/user-attachments/assets/9f1dd0cb-f00c-4fb6-8515-3435310196fc) |
+| *Contact Us* | ![image](https://github.com/user-attachments/assets/eaf28061-b11c-428b-a6ab-1dbc4b03ed15) |
+| *Footer* | ![image](https://github.com/user-attachments/assets/f0694706-3dd2-4600-bc70-3796aea5bb2d) |
